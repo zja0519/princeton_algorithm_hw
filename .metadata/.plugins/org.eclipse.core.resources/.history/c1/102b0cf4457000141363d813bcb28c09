@@ -1,0 +1,139 @@
+import java.util.HashMap;
+
+
+public class WordNet {
+	   // constructor takes the name of the two input files
+	   private HashMap<Integer,String> id2words;
+	   private HashMap<String,Bag<Integer>> word2ids;
+	   private int setsCount;
+	   private Digraph digraph;
+       private SAP sap;
+	   public WordNet(String synsets, String hypernyms) {
+		   /*
+		    * synsets, two hash tables
+		    * (1) <id, words>
+		    * (2) <word, ids>
+		    * 
+		    * hypernyms, create digraph
+		    */
+		   if(synsets==null || hypernyms==null) throw new NullPointerException();
+		   
+		   buildWord2idsMapAndId2WordsMap(synsets);
+		   setsCount = id2words.size();
+		   buildDigraph(hypernyms);
+		   
+		   if(isCyclic(digraph)) throw new NullPointerException();
+		   sap = new SAP(digraph);
+	   }
+	   
+	   private void buildWord2idsMapAndId2WordsMap(String synsets){
+		   id2words = new HashMap<Integer,String>();
+		   word2ids = new HashMap<String,Bag<Integer>>();
+		   String curLine;
+		   String[] fields;
+		   Integer id;
+		   String words;
+		   String[] wordsIterable;
+		   In synsetsIn = new In(synsets);
+		   word2ids = new HashMap<String,Bag<Integer>>();
+		   while(synsetsIn.hasNextLine()) {
+			   curLine = synsetsIn.readLine();
+			   fields = curLine.split(",");
+			   id = Integer.parseInt(fields[0]);
+			   words = fields[1];
+			   wordsIterable = words.split(" ");
+			   id2words.put(id, words);
+			   for(String s:wordsIterable){
+				   if(word2ids.containsKey(s)) {
+					   word2ids.get(s).add(id);
+				   }
+				   else {
+					   Bag<Integer> addBag = new Bag<Integer>();
+					   addBag.add(id);
+					   word2ids.put(s, addBag);
+				   }
+			   }
+		   }
+	   }
+	   
+	   private void buildDigraph(String hypernyms){
+		   String curLine;
+		   String[] fields;
+		   In hypernymsIn = new In(hypernyms);
+		   int count = 0;
+		   int rootCount = 0;
+		   digraph = new Digraph(setsCount);
+		   while(hypernymsIn.hasNextLine()){
+			   curLine = hypernymsIn.readLine();
+			   fields = curLine.split(",");
+			   count = fields.length;
+			   if(count == 1) rootCount++;
+			   for(int i=1;i<count;i++){
+				   digraph.addEdge(Integer.parseInt(fields[0]), Integer.parseInt(fields[i]));
+			   }
+		   }
+		   if(rootCount!=1) throw new NullPointerException(); //violate root rule
+	   }
+	   
+	   private boolean isCyclic(Digraph digraph){
+		   DirectedCycle cycleCheck = new DirectedCycle();
+	   }
+
+	   
+	   public void synsetsPrintId2words(){
+		   for(Integer id:this.id2words.keySet()) {
+			   StdOut.println(id+":"+this.id2words.get(id));
+		   }
+		   System.out.println(this.id2words.size());
+	   }
+	   
+	   public void synsetsPrintWord2Ids(){
+		  for(String w:this.word2ids.keySet()) {
+			  StdOut.println(w);
+			  for(Integer id:this.word2ids.get(w)) {
+				  StdOut.print(id+" ");
+			  }
+			  StdOut.println();
+		  } 
+	   }
+	   
+	   // returns all WordNet nouns
+	   public Iterable<String> nouns() {
+		   //use hashmap (2)
+		   return this.word2ids.keySet();
+	   }
+
+	   // is the word a WordNet noun?
+	   public boolean isNoun(String word) {
+		   //use hashmap(2)
+		   if(word==null) throw new NullPointerException();
+		   return this.word2ids.containsKey(word);
+	   }
+
+	   // distance between nounA and nounB (defined below)
+	   public int distance(String nounA, String nounB) {
+		   //use hashmap(2) to get two sets then SAP.length(Iterable, Iterable)
+		   if(nounA==null || nounB==null) throw new NullPointerException();
+		   if(!(isNoun(nounA) && isNoun(nounB))) throw new IllegalArgumentException();
+		   return this.sap.length(this.word2ids.get(nounA), this.word2ids.get(nounB));
+	   }
+
+	   // a synset (second field of synsets.txt) that is the common ancestor of nounA and nounB
+	   // in a shortest ancestral path (defined below)
+	   public String sap(String nounA, String nounB) {
+		 //use hashmap(2) to get two sets then SAP.ancestor(Iterable, Iterable)
+		 //get set using hashmap(1) and returned id
+		   if(nounA==null || nounB==null) throw new NullPointerException();
+		   if(!(isNoun(nounA) && isNoun(nounB))) throw new IllegalArgumentException();
+		   int id = this.sap.ancestor(this.word2ids.get(nounA), this.word2ids.get(nounB));
+		   if (id==-1) return null;
+		   else return this.id2words.get(id);
+	   }
+
+	   // do unit testing of this class
+	   public static void main(String[] args) {
+		   WordNet wordnet = new WordNet(args[0], args[1]);
+		   wordnet.synsetsPrintId2words();
+		   //wordnet.synsetsPrintWord2Ids();
+	   }
+}
