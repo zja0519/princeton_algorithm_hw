@@ -1625,3 +1625,1580 @@ Java Model Exception: Java Model Status [Unknown javadoc format for Agent {key=L
 
 !ENTRY com.yattasolutions.umllab 2 3 2014-11-19 20:14:43.202
 !MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+!SESSION 2014-11-26 11:24:37.453 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/jiaozhang/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/jiaozhang/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-11-26 11:24:53.619
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:25:17.850
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab.ui 4 0 2014-11-26 11:25:17.858
+!MESSAGE No valid license is available.
+!STACK 0
+com.yattasolutions.obf.kh.g: No license found for UML Lab.
+	at TJ2GR6LZPAFNF7YUK355GYP6KPT7BG4CAUAHH5QDT273DBXEWJBD6EUXDYEYI4VSLPQOCU7476XWJKGKQG7LDH23VB5UW43ECX27VAXRMOD3FOIUL3EJB2B6Y26BVFLJ3ZJD62GK3FM5ZYLH3CFVEBZT7HUWIQ7OOCPUEY55HXYZUSF2NON4DRIFYE4WSDAI67IEJL3MQ6DRROD4FRMVDAD3LPGMWNS5WDS2N2D7ARQQXTEOVBJHD2WZHS4WWB4KZEAPBWSLD6XKQIWQABU4SNNIRYQMYT2V5AREEWJZXBQKLQHEZKVZ5ME6JW6JC3KZVA6NWI6HFWBAYONNNFUAJOQP44DF5EHYE7MBKFRYOW3TUJZ5ILGEQQH24KDPVDDOP7S7EYI5BKKK4V3NB44OQSE3NKMJ46FETDOWWRFSATAPRFMCL7H2RHHKM4S2SQDT7FNRED4B6Q7SNJYFXRJGLISPVQ6BV2Q7FKQSAELXIEOLD7GYRUQ4FIDZZCUPL4TDGS2SNHDLPAEPK5JU62I6QY2GRC2XMTMWRWL3NHFNXTRW5SDQHP6AR3J4BZNT7LKQY3UX6RBGBUJC7QPGFDOBLGX6VRWHKUPEWXEQDNYZT7VQ6BYV7CVLCPWBFMKA2YTMIWX5QZEQLHXOYU43DLCLCT2TTOQREHQY65MJNS7X4O3N3XSZXZGBHHEV6OBY7XD5UTRRAL3SFHVY6G36DKDL5FPIR7BTHZH64U2LLLAMQZY4YPV2R7XIBGFM747WTZMZ5LLNIGPZXTSSSMQVCKESHCJ76FZI7B6WM2UVGB5355YT7FMGDKLVWFPGZ4VRT33CEBPBUOXPVKNYG2IHQEBOIDGU4F26RSNHPY4WQ2KR2NCWE6RVVLPLE6NWSV5Q4CBV5EUPU2DSPJN4YKDW24NMGAYYEMOBAJESREFZDQE6S4FK7FJDHF2GD2JCN5X6XOZGF57V5OBARKASW6HV5U34OYPYNTCMC6TMFDJO64PMFI3I2FY4A35HFEU2L5C7GXH346TPXEP4D3YSPMQSNSF4MSZM2T725VKN7YIB654KBKUZPCBOU2AD2YXT6KLC3ONKJ4NQFJ6ADB25THVFUESKYRRPJFZH6MQGXJOMXMGTKVR2NSFTFLFJ7EOMA4H4AFSFPYILBDBSTVJPGDALGZT4IZOSIELUKNSWA7A2LD77HSIB7PHYGD3IKLIIF6FOTNSDGXDGB4YZLVEVV5GEGSEBGXXV7OYX5USYPYX7Q4KWHDH47HVCDZK5PYAZWURKS3TIMZIV7OM7GYDHGECU3WF73JS4LDD6MAVS3ZCJ4PKJIZJPGU2SQNX36ILORNJ7WA4XOXCBCDS7ZEAIUB4L255DKAT5FXJJCQ5KTGQVE6XK6JVNYIUAHJIR27BJIN2EEL3K7MOXRWHGFCZZNYWXRTEU7E7YL7OKPO22WFMUUK7BVUNM2OTY7JIGUOMOCA4YLPHBJM7XVZ6I6LXO6XEOZWZJFVX5JHNIVYN5LSAPXB3E7ZRMEM55YBQCQ2WOQSKZ3JCGVCFB4ELNPPKPLN2OKPHWRHX7LJL7S5WMRKQTA2AZBSSNCNHH7T3K3UH7G2XYH5BTZNCIY5IFZOKWU6FRTU5HOBTHDBJQCRUY66K67NQT24V3ZPRN6GPILXB7ZFMED4EEGM7UK2F6D2ZUUXRHR5QXMGDV4ZEFN2VTJEYY7DMMZOACIWLAQURKKAYHTWGA2PQRS3KUXHWEX27IGWHMYKQW4OCVVLVDIMTKL2CPC53XJ3VODVC3UI7BQRWQEXVMTFM2FNQDO3EVFIQQAVZ3MYZYBNHQ5H/Z3VJ5RP7XFOPHF73SXE5ZE7VWB.<unknown>(Unknown Source)
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:25:29.454
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:25:37.123
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:25:43.725
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:25:49.431
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:26:21.664
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:26:30.340
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:26:39.187
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:26:47.262
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:26:53.242
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:27:42.152
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:27:51.718
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:28:01.507
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:28:08.590
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:28:19.341
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:28:31.238
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:28:40.048
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:28:45.800
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:29:46.410
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:30:01.333
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:30:09.488
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:30:16.563
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:30:24.167
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:30:30.197
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:30:50.446
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:30:56.364
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:32:11.048
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:32:45.726
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:32:57.282
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:33:07.974
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:34:37.558
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:34:43.888
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:35:13.806
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:37:00.270
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:52:44.344
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:53:22.142
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:53:29.259
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:53:42.391
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:53:48.945
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:53:57.539
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:59:13.746
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:59:20.397
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 11:59:37.572
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 12:00:18.353
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 13:45:44.144
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 13:46:32.205
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 13:46:46.230
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 13:47:03.810
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 13:47:45.352
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:23:40.047
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:23:57.036
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:24:44.666
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:24:50.882
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:25:10.311
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:25:17.304
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:25:30.230
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:25:55.951
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:26:12.206
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:26:22.750
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:27:37.429
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:27:48.616
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:28:05.654
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:28:22.639
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:28:34.748
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:28:49.411
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:28:58.997
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:29:06.935
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:29:15.587
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:29:22.535
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:29:45.178
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:29:51.901
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:30:16.672
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:30:32.823
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:30:42.333
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:30:48.668
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:31:00.025
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:31:08.906
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:31:16.058
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:31:23.146
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:31:33.151
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:31:42.406
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:32:31.113
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:33:49.502
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:40:13.831
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:40:28.153
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:43:18.942
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:46:19.815
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:46:27.488
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:47:56.090
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:48:56.650
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:49:04.913
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:49:32.568
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:49:42.727
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:50:03.539
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:50:18.189
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:50:27.836
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:50:55.259
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:51:23.650
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:51:31.932
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:51:52.383
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:53:11.749
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:53:24.637
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:53:31.208
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:53:39.281
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:54:05.302
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:54:32.651
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:54:48.842
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:55:04.863
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:55:14.883
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:55:40.733
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:56:16.150
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:56:31.601
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 14:56:40.689
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:04:01.277
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:06:10.387
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:06:27.687
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:07:12.994
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:08:56.115
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:20:31.750
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:21:05.156
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:22:46.426
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:22:58.390
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:23:07.843
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:25:02.289
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:25:11.994
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:28:26.246
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:28:41.102
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:28:50.444
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:28:57.096
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:29:38.719
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:29:46.428
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:29:56.307
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:30:29.485
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:30:39.092
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:32:06.033
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:33:00.147
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:33:06.220
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:33:51.372
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:34:12.367
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:34:23.399
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:34:37.005
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:34:43.338
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:34:51.735
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:35:14.148
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:35:22.035
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:35:41.607
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:36:11.000
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:36:21.136
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:36:28.829
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:36:37.990
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:36:44.232
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:38:15.878
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:40:56.115
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:41:19.445
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:41:29.671
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:41:39.096
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:41:46.007
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:41:52.714
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:42:06.211
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:43:43.304
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:43:49.882
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:44:43.876
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:44:51.117
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:44:59.609
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:45:06.295
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:45:23.157
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:45:47.705
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:47:07.487
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:47:18.721
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:47:24.563
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:47:47.045
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:50:56.953
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:51:22.224
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:51:28.452
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:52:07.388
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:52:15.685
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:52:25.590
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:52:31.447
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:59:09.434
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 15:59:24.534
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:01:28.800
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:01:47.587
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:02:34.209
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:06:37.663
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:07:16.843
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:07:51.273
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:08:16.505
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:08:35.450
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:09:50.596
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:11:10.061
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:11:39.546
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:11:46.772
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:12:07.539
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:12:48.996
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:12:55.481
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:13:04.577
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:13:29.513
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:13:42.067
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:13:53.541
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:14:03.028
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:14:14.603
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 16:17:30.451
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:22:59.024
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:31:05.339
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:31:29.342
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:31:59.709
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:32:07.970
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:32:21.574
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:32:39.096
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:32:57.520
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:33:21.297
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:33:38.122
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:34:01.852
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:34:34.567
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:34:40.280
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:35:53.899
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:36:06.275
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:36:30.865
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:36:41.210
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:36:47.146
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:37:18.416
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:37:27.222
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:37:33.244
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:38:36.674
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:39:01.643
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:39:08.737
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:39:35.359
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:40:00.987
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:41:29.147
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:41:37.030
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:41:42.834
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:41:49.123
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:41:55.550
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:46:29.656
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:46:57.731
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:47:10.228
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:47:25.137
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:47:46.644
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:47:57.017
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:48:12.487
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:48:24.627
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:48:35.656
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:51:54.528
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:52:02.065
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:52:38.311
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:52:57.079
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:53:09.146
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:53:17.450
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:54:38.384
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:55:39.542
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:55:51.786
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:55:58.574
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:56:13.428
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:56:32.835
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:56:38.553
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:57:01.152
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:57:07.267
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 17:57:17.991
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:00:33.712
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:04:03.610
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:04:12.406
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:04:18.987
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:04:50.042
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:05:06.958
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:05:13.048
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:05:22.567
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:05:31.999
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:05:38.351
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:05:47.515
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:05:56.362
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:06:02.136
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:06:13.367
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:07:04.201
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:07:10.781
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:07:16.665
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:07:53.027
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:07:59.281
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:08:05.088
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:08:44.054
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:09:26.303
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:09:32.202
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:11:55.771
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:12:48.832
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:12:55.272
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:13:26.092
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:13:34.348
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:13:42.246
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:14:49.579
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:14:58.929
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:15:08.602
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:15:30.128
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:15:36.291
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:16:07.174
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:18:52.879
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:19:26.111
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:22:19.627
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:22:30.759
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:22:36.707
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:23:54.604
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:24:16.646
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:24:23.508
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:24:39.560
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:24:57.060
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:25:02.766
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:25:09.609
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:25:17.080
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:25:24.922
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:25:45.345
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:25:53.003
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:26:02.590
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:26:08.416
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:26:17.236
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:27:21.423
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:27:27.395
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:27:53.108
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:28:32.168
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:28:40.118
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:30:16.748
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:30:52.126
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:32:33.822
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:33:04.954
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:33:17.956
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:33:32.310
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:36:21.923
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:37:48.384
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:37:56.539
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:38:05.116
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:38:14.785
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:38:28.660
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:39:02.025
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:39:26.456
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:40:45.293
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:43:12.436
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:43:25.630
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:43:52.109
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:44:31.690
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:47:07.959
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:50:02.807
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:50:10.322
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:50:16.086
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:53:01.325
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:53:07.995
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:53:29.880
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:53:48.633
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:53:54.433
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:54:03.999
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:54:22.665
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:54:42.469
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:54:53.118
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:55:53.856
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:56:07.877
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:56:18.878
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:56:25.781
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:57:22.003
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:57:35.335
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:57:41.671
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:57:48.372
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:57:56.992
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 18:58:16.346
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 19:01:12.115
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 19:01:18.007
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 19:02:04.684
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 19:02:37.384
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-26 19:05:42.889
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+!SESSION 2014-11-27 00:04:36.495 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/jiaozhang/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/jiaozhang/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-11-27 00:04:50.139
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:05:24.091
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab.ui 4 0 2014-11-27 00:05:24.100
+!MESSAGE No valid license is available.
+!STACK 0
+com.yattasolutions.obf.kh.g: No license found for UML Lab.
+	at 47HHQQVIXUUARXHOYI7DG2M2MCLP2GH62FHUINIRJZXTXCE67RSO3JHTQOCDUZEVWQQ6M5KMQPK266OQRYAQMH5A4N6EZEWYPMLVWL5QHUE3B3BSDRNEH5JVZMDTRVXU4ZRMZUMPIYL2OOZMQVUIUX3DOGMVALUP2GY2PPNZPLT7D5ESRRSY27GLQWVG2JYNQNADMALBVX4ZWTZNP5EJ7TL5Q33ZJKCGF34UBVSBUBW22AO5JXIH7VTZ46G3A6RY2GE3JDY67KNRHBTCCG377V5WPB6Q76VKN4RXYEEGM32P2FL6QX3FALNUN4KBRPOHUKEU47GBYSDPTKVXAAMN2XFVCAUIEHF5OGP4MFPWQWR7FFPYNH5YXR4L75PIYZSLDMM4CFSZERCAHSCDRB2CXGAZWJ5ZZ7GTBG5UWNQW4N6GIXP6RZUQJCBEKD5RWV5QPMKFSEXVKQ5GWYNLECWNRA74B5UESCPNNHB6UJ6ARJJOPSMDHRHHFNB3GIAEUDU5OVNXGOWMY5KA62ZRBH7MVVF3HHQDJQ27STCPA4CKMHIXHHOTHH2F2T6ULA3AUBJLBVMUEFMOVXRAQA6HWWRO5FYOBA6ULH4P5FKRP7Q45UYGJNVCNYDPR7FJC2TPYQPSHP6PVAWW4O3KFUEJAHOPRRCK5USB5VY2E7LFKZNV3JSKB3ZG4WSOX6I52IVQRU6TLMNLU22UYR6EZN6NOFLKHBJPEQDAVOGWVB6OT7E2LTCOHHA5WX6H4W4O2EQUSCN6ZEWEUDNNATQPS42CC7RB6ERZCWMZSVMPABO7N5V6POFD6VKHLGU7KIHBZ5SQPKOCXFWG2IJFI3N7BGMFBHUAJNRA4DB3WZMFEOF2S5QY6LAZOBTV7WUXGYELQCCJ5UXHFTBKF5ODBMWLNBIBYMVDKLACZD4QMXKNR2MSCM6MESKLHWYOIQYGSJZFEO3R2RUGSLUK7MHICYILVF74PS6PKAX5CKZORERY4W4PSBJ5D5KWDSDF4ALXQFRR3A5E4TNX3K426XVHYVSM55X4STQQY5Q2SOOBNG3FRPVRFVAA4D5XUIAWH4FMG5ZWGLIHBSJPSJTLD43UBBEZSLLFMWBI7IFESBNY5I4BHMBZQDIBQV3TBZPVG5KTXQG4QP7RVXCPFALIFZY6BVVVUPKNTG337NYB64L5JVRLC4EX23WPCTAZ5GQOEC4NH6G3JY3DRAOI7HGGWZAGPBGU4GD3IT43DDWHAU32CTPCET5UBKECLWRHS5P45OAYVG5VR7UM4SIEM2GIYJ7ZAPNMVCUA7LW2H4RP6XIUXH3WARQZKD3VSWORGFG4JPSH7NG7LZBW6YTINGOS32LUG3OTZ7GWZFK5PQRU4JTU372H7HPKNJX2XCPIDGRLXVKDMTJLP7SFHORQK6J5MECWJSVNTLHTKHNQHE3MSZAN6SI6ZIWRXTJ5YCXYP2III6T535LKKFCK7TKDQHWMFISLJ27U4T676VMP3ESTPRJUZDS4S5GZDG4CFUCP4PFSOBNPEHFJFT3OAYFKL2Y7RD2HFVHYAIKEBMAE7TWLH6CO3NML4OVAZPHXGJVKDKOWCFTH6YI3KKQ4Z4VCBXMQPMARYWIQUIHQWJ6D3YKDRCWCS6G4T7KJQK7L4HYMSJYZVDMQPDLHYLADE7AQ3GQV2UFIYPWO4S3EFP7LRKDDORIKKIADLQ3ZGXN6QCTABYFH74T2CFFRK6YGWHMB3YG5C7TP7RD6AIKVLZKQLOY2CYNGSOVQ5CDHFW6AU7PMJ2I7ODRQIRYPOKLDRU3FMRM5GLRIRFDLMAMZXQZOIWEJVD/E7XVZGRPN45IUHYCLZVJ6ULYDE.<unknown>(Unknown Source)
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:05:38.371
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:05:48.900
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:05:55.538
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:06:27.995
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:08:04.400
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:11:59.792
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:12:12.238
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:12:24.766
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:12:32.754
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:12:47.495
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:17:32.066
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:18:19.458
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:18:35.558
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:18:58.743
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:19:40.295
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:19:53.970
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:20:18.779
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:20:27.407
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:20:33.844
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:20:52.571
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:21:01.255
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:21:21.141
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:21:27.592
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:24:08.523
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:24:17.744
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:24:31.004
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:24:37.465
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:25:11.237
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:25:34.193
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:30:42.123
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:30:49.695
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:30:59.005
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:31:05.922
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:31:31.707
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:31:47.763
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:32:10.161
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:32:21.421
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:32:44.505
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:33:08.278
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:33:20.311
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:33:28.481
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:34:10.253
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:34:42.038
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:36:07.746
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:36:17.158
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:38:29.358
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:38:36.137
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:38:47.295
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:38:54.574
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:40:17.927
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:40:54.693
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:41:03.791
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:41:15.097
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:42:20.771
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:42:33.576
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:42:45.670
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:42:56.993
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:44:15.348
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:44:22.027
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:45:03.087
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:45:09.215
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:56:18.550
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 00:57:00.406
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:05:46.855
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:06:33.211
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:07:00.744
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:07:11.447
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:15:46.931
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:15:54.189
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:28:44.446
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:30:31.267
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:31:15.189
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:31:25.218
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:31:32.487
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:31:40.401
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:31:59.216
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:32:11.503
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:32:29.941
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:32:42.597
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:32:52.672
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:33:16.347
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:33:53.498
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:33:59.568
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:34:05.781
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:34:55.492
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:35:04.781
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:35:24.015
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:35:39.529
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:35:46.339
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:35:52.995
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:36:01.495
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:36:08.051
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:36:18.912
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:36:25.360
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:37:36.567
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:37:46.119
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:38:35.507
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:39:20.080
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:39:27.117
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:39:33.877
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:44:08.627
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:44:19.884
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:45:04.425
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:45:18.456
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:45:29.130
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:45:49.277
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:45:55.422
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:46:01.779
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:46:14.469
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:46:20.628
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:46:38.430
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:46:44.603
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:47:27.889
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:47:38.027
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:48:14.585
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:48:21.215
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:48:30.250
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:49:08.649
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:49:57.915
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:50:20.240
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:50:27.295
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:50:34.667
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:53:18.414
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:54:05.714
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:54:17.357
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:56:05.232
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:56:11.956
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:56:19.087
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:58:28.956
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 01:58:40.402
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:00:57.418
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:01:03.560
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:01:10.322
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:08:18.681
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:08:34.967
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:09:22.764
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:09:40.580
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:09:52.880
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:10:02.458
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:11:21.933
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:11:31.171
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:11:46.487
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:12:10.445
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:12:23.359
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:12:36.300
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:15:00.247
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:21:18.118
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:24:00.191
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:24:14.113
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected
+
+!ENTRY com.yattasolutions.umllab 2 3 2014-11-27 02:26:51.592
+!MESSAGE Failed to acquire floating license: com.yattasolutions.obf.mv.g: Client IP rejected

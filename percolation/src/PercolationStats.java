@@ -33,42 +33,42 @@ public class PercolationStats {
    }
    
    private void fillUpResMem() {
-   int curCount = 0;
-   int row;
-   int col;
-   for (int i = 0; i <= T-1; i++) {
-   Percolation curPer = new Percolation(N);
-   while (!curPer.percolates()) {
-   while (true) {
-   row = StdRandom.uniform(N)+1;
-   col = StdRandom.uniform(N)+1;
-   if (!curPer.isOpen(row, col)) break;
-   }
-   curPer.open(row, col);
-   curCount++;
-   }
-   resMem[i] = (double) curCount/(double) (N*N);
-   mean += resMem[i]/T;
-   curCount = 0;
-   }
+     int curCount = 0;
+     int row;
+     int col;
+     for (int i = 0; i <= T-1; i++) {
+       Percolation curPer = new Percolation(N);
+       while (!curPer.percolates()) {
+         while (true) {
+           row = StdRandom.uniform(N)+1;
+           col = StdRandom.uniform(N)+1;
+           if (!curPer.isOpen(row, col)) break;
+          }
+         curPer.open(row, col);
+         curCount++;
+       }
+       resMem[i] = (double) curCount/(double) (N*N);
+       mean += resMem[i]/T;
+       curCount = 0;
+     }
    }
    
    public double mean() {
-   return this.mean;
+    return this.mean;
    }
    // sample mean of percolation threshold
    private double calStddev() {
-   double curStddev;
-   if (T == 1) curStddev = Double.NaN;
-   else {
-   curStddev = 0.0;
-   for (int i = 0; i <= T-1; i++) {
-   curStddev += (resMem[i]-mean)*(resMem[i]-mean);
-   }
-   curStddev /= T-1;
-   }
-   this.myStddev = Math.sqrt(curStddev);
-   return this.myStddev;
+     double curStddev;
+     if (T == 1) curStddev = Double.NaN;
+     else {
+       curStddev = 0.0;
+       for (int i = 0; i <= T-1; i++) {
+          curStddev += (resMem[i]-mean)*(resMem[i]-mean);
+       }
+       curStddev /= T-1;
+     }
+     this.myStddev = Math.sqrt(curStddev);
+     return this.myStddev;
    }                // sample standard deviation of percolation threshold
    
    public double stddev() {
@@ -76,21 +76,21 @@ public class PercolationStats {
    }
    
    public double confidenceLo() {
-   return this.loCon;
+       return this.loCon;
    }          // returns lower bound of the 95% confidence interval
    
    public double confidenceHi() {
-   return this.upCon;
+       return this.upCon;
    }          // returns upper bound of the 95% confidence interval
    
    public static void main(String[] args) {
-   int N = Integer.parseInt(args[0]);
-   int T = Integer.parseInt(args[1]);
-   
-   PercolationStats myStats = new PercolationStats(N, T);
-   System.out.println("mean                    = "+ myStats.mean());
-   System.out.println("stddev                  = "+ myStats.stddev());
-   System.out.println(
-   "95% confidence interval = "+ myStats.confidenceLo()+", "+myStats.confidenceHi());
+     int N = Integer.parseInt(args[0]);
+     int T = Integer.parseInt(args[1]);
+     
+     PercolationStats myStats = new PercolationStats(N, T);
+     System.out.println("mean                    = "+ myStats.mean());
+     System.out.println("stddev                  = "+ myStats.stddev());
+     System.out.println(
+     "95% confidence interval = "+ myStats.confidenceLo()+", "+myStats.confidenceHi());
    }  // test client, described below
 }
