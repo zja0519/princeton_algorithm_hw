@@ -9,7 +9,8 @@ public class TrieST26 {
 
 	    // R-way trie node
 	    private static class Node {
-	        private boolean isWord=false;
+	        //private boolean isWord=false;
+	        private String value = null;
 	        private Node[] next = new Node[R];
 	    }
 
@@ -48,7 +49,7 @@ public class TrieST26 {
 	    	int type = -1;
 	    	Node curNode = prefixS.peek();
 	    	if(curNode!=null) {
-	    		if(curNode.isWord) type = 1;
+	    		if(curNode.value!=null) type = 1;
 	    		else type =0;
 	    	}
 	    	return type;
@@ -79,7 +80,7 @@ public class TrieST26 {
 	     */
 	    public boolean contains(String key) {
 	    	Node node = get(key);
-	        return node!=null && node.isWord;
+	        return node!=null && node.value!=null;
 	    }
 
 	    private Node get(Node x, String key, int d) {
@@ -104,8 +105,8 @@ public class TrieST26 {
 	    private Node put(Node x, String key, int d) {
 	        if (x == null) x = new Node();
 	        if (d == key.length()) {
-	            if (x.isWord == false) N++;
-	            x.isWord = true;
+	            N++;
+	            x.value = key;
 	            return x;
 	        }
 	        char c = key.charAt(d);
@@ -150,8 +151,13 @@ public class TrieST26 {
 	    		if(curNode.next[str.charAt(i)-'A']==null) return -1;
 	    		curNode = curNode.next[str.charAt(i)-'A'];
 	    	}
-	    	if(curNode.isWord) return 1;
+	    	if(curNode.value!=null) return 1;
 	    	else return 0;
+	    }
+	    
+	    public String getTopWord(){
+	    	if(this.prefixS.peek()==null) return null;
+	    	return this.prefixS.peek().value;
 	    }
 
 	    /**

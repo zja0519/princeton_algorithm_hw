@@ -6,7 +6,7 @@ public class BoggleSolver {
     // (You can assume each word in the dictionary contains only the uppercase letters A through Z.)
 	private TrieST26 dict = new TrieST26();
 	/***********recursion version used**************/
-	private StringBuilder str = new StringBuilder();
+	//private StringBuilder str = new StringBuilder();
 	private HashSet<String> res;
 	private BoggleBoard board;
 	private boolean[] visited;
@@ -30,9 +30,9 @@ public class BoggleSolver {
     		return;
     	}
     	visited[i*N+j] = true;
-		str.append(c);
-		if(c=='Q') str.append('U');
-		if(dict.prefixCheck()==1 && str.length()>=3) res.add(str.toString());
+		//str.append(c);
+		//if(c=='Q') str.append('U');
+		if(dict.prefixCheck()==1 && dict.prefixSsize()>3) res.add(dict.getTopWord());
 		
     	int testR;
     	int testC;
@@ -48,8 +48,8 @@ public class BoggleSolver {
     	
     	visited[i*N+j] = false;
     	dict.prefixPop(c);
-    	if(c=='Q') str.delete(str.length()-2, str.length());
-		else str.deleteCharAt(str.length()-1);
+    	//if(c=='Q') str.delete(str.length()-2, str.length());
+		//else str.deleteCharAt(str.length()-1);
     }
 
     
